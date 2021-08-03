@@ -1,4 +1,4 @@
 deploy:
   type: git
-  repository: https://github.com/Chocolate-Lee/Chocolate-Lee.github.io.git
+  repository: https://github.com/Cloud-Z3/.Cloud-Z3.github.io
   branch: master
